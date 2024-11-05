@@ -1,0 +1,8 @@
+C:\Users\LENOVO\AppData\Local\Temporary Projects\aplikacija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LENOVO\AppData\Local\Temporary Projects\aplikacija\obj\Debug\aplikacija.Form1.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\aplikacija\obj\Debug\aplikacija.Properties.Resources.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\aplikacija\obj\Debug\aplikacija.csproj.GenerateResource.Cache
+C:\Users\LENOVO\AppData\Local\Temporary Projects\aplikacija\bin\Debug\aplikacija.exe
+C:\Users\LENOVO\AppData\Local\Temporary Projects\aplikacija\bin\Debug\aplikacija.pdb
+C:\Users\LENOVO\AppData\Local\Temporary Projects\aplikacija\obj\Debug\aplikacija.exe
+C:\Users\LENOVO\AppData\Local\Temporary Projects\aplikacija\obj\Debug\aplikacija.pdb

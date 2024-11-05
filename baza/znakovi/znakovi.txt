@@ -1,0 +1,6 @@
+stop,
+limit_30,
+limit_40,
+limit_70,
+right_of_way,
+crossing,
